@@ -42,6 +42,17 @@ I build backends and APIs with **Laravel** and **FastAPI**, and wire in AI where
 | **3D Interactive Portfolio** | Portfolio site built around a Blender room model | [Live](https://portofolio.dikri.workers.dev/) |
 | **Vision Lab** | YOLO object detection and segmentation, annotated with Roboflow | Private |
 
+## Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dkrii&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=00FF9C&title_color=00FF9C&text_color=ffffff&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dkrii&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=ffffff&langs_count=6" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dkrii&theme=dark&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=ffffff&dates=888888" />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dkrii/Dkrii/snake-output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dkrii/Dkrii/snake-output/github-snake.svg" />
